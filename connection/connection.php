@@ -5,5 +5,5 @@
         'root_arturo',
         'arturo_root',
         'bookstore'
-    )
+    );
 ?>
